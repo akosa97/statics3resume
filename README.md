@@ -8,4 +8,4 @@ Finally, to ensure that my website is secure, I have used Amazon Certificate Man
 
 Overall, by using these AWS services, I have been able to create a fast, secure, and highly available website for hosting my resume. I hope that this approach is helpful for those looking to host their own static website. Thank you for your time.
 
-https://akosas3resume.link
+akosas3resume.link
