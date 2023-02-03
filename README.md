@@ -9,3 +9,7 @@ Finally, to ensure that my website is secure, I have used Amazon Certificate Man
 Overall, by using these AWS services, I have been able to create a fast, secure, and highly available website for hosting my resume. I hope that this approach is helpful for those looking to host their own static website. Thank you for your time.
 
 akosas3resume.link
+
+https://d10fbmj6n2irgi.cloudfront.net/
+
+* 2/3/2023 UPDATE: main Route53 domain currently unavailable. Resume can be seen using CloudFront distribution link.
