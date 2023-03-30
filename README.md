@@ -1,4 +1,4 @@
-Hello, my name is Akosa Mora and I am an AWS-certified Cloud Engineer with 4+ years of experience in driving information management strategy. I am excited to share with you my approach to hosting my resume on a static website using Amazon Web Services (AWS).
+Hello, my name is Akosa Mora and I am an AWS-certified Cloud Engineer with 6+ years of experience in designing, implementing and managing cloud-based solutions. I am excited to share with you my approach to hosting my resume on a static website using Amazon Web Services (AWS).
 
 I have leveraged the power of Amazon S3 to host my resume website, which is a highly scalable and secure object storage service. I have used Route 53, AWS's Domain Name System (DNS) service, to point my domain to my S3 bucket, ensuring that my website is easily accessible to anyone who visits.
 
